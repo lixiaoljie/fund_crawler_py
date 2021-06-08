@@ -97,7 +97,7 @@
     # 解析返回数据
     ...
     ```
-10. 准备一个数据库，用于存储数据和对数据进行筛选分析。这里推荐一个方便的云数据库，一键创建，一键查询，十分方便，而且是免费的哦。前往[MemFireDB](https://memfiredb.com/?utm_source=hwj)注册一个账号就能使用。注册邀请码：```6mxJl6```、```6mYjGY```；
+10. 准备一个数据库，用于存储数据和对数据进行筛选分析。这里推荐一个方便的云数据库，一键创建，一键查询，十分方便，而且是免费的哦。前往[MemFireDB](https://memfiredb.com/?utm_source=hwj)注册一个账号就能使用。注册邀请码：```6mX8Mu```、```6mYjGY```；
     ![login](images/login.png)
 11. 创建好数据库后，点击连接信息填入代码中，用于连接数据库。
     ![dbinfo](images/dbinfo.png)
